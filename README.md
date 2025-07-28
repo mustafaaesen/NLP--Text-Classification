@@ -62,6 +62,10 @@ Classify Turkish news headlines into one of 7 categories:
 High accuracy and balanced performance across all classes.
 
 ---
+## 📁 Datasets
+- `data/turkish_imdb_dataset.csv`: Sentiment analysis dataset for Turkish IMDb movie reviews.
+- `data/turkish_news_dataset.csv`: News headline classification dataset with 7 categories.
+
 
 ## 🧠 Key Technologies Used
 
