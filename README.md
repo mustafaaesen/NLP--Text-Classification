@@ -1,3 +1,8 @@
+### 🔗 Download Trained BERT Model
+Download the zipped model (~410MB) from [Google Drive]([https://drive.google.com/uc?id=YOUR_FILE_ID](https://drive.google.com/file/d/1i8SLemn6rnUj9J-o_eF63phrOG5V8A9j/view?usp=sharing))
+
+
+
 # NLP & Text Classification Projects 📊🧠
 
 This repository contains multiple natural language processing (NLP) projects focused on sentiment analysis and text classification using both traditional machine learning techniques (TF-IDF + Naive Bayes) and advanced transformer-based models (BERT). The datasets and implementations are entirely in Turkish.
