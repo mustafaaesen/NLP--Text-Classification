@@ -1,5 +1,5 @@
 ### 🔗 Download Trained BERT Model
-Download the zipped model (~410MB) from [Google Drive]([https://drive.google.com/uc?id=YOUR_FILE_ID](https://drive.google.com/file/d/1i8SLemn6rnUj9J-o_eF63phrOG5V8A9j/view?usp=sharing))
+Download the zipped model (~410MB) from https://drive.google.com/file/d/1i8SLemn6rnUj9J-o_eF63phrOG5V8A9j/view?usp=sharing
 
 
 
