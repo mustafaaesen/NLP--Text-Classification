@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+*.zip
+*.h5
+*.pt
+*.joblib
+.DS_Store
+Thumbs.db
+drive/
