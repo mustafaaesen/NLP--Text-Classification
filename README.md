@@ -10,6 +10,7 @@ This repository contains multiple natural language processing (NLP) projects foc
 ---
 
 ## 📁 Project Structure
+```
 
 NLP &Text Classification/
 ├── NLP_&Text_Classification.ipynb
@@ -26,7 +27,7 @@ NLP &Text Classification/
 ├── nlp_news_category_project_3.py
 ├── NLP_News_Category_Project_4.ipynb
 └── nlp_news_category_project_4.py
-
+```
 
 ---
 
